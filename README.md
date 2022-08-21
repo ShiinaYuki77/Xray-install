@@ -74,4 +74,4 @@ Notice: Xray will NOT log to `/var/log/xray/*.log` by default. Configure `"log"`
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/XTLS/Xray-install.svg)](https://starchart.cc/ShiinaYuki77/Xray-install)
+[![Stargazers over time](https://starchart.cc/ShiinaYuki77/Xray-install.svg)](https://starchart.cc/ShiinaYuki77/Xray-install)
